@@ -1,0 +1,13 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 2rem;
+}
+#images {
+  padding: 20px;
+}
+#images img {
+  width: 49.5%;
+  height: auto;
+  display:inline-block;
+  vertical-align: top;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "tutorial-image-component",
+  "title": "Tutorial for image component",
+  "version": "1.0.0",
+  "homepage": "https://github.com/component-io/tutorial-image-component",
+  "author": "Component IO",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/component-io/tutorial-image-component/blob/master/LICENSE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component-io/tutorial-image-component"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "serve-static": "^1.11.1"
+  },
+  "devDependencies": {}
+}
